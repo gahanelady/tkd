@@ -29,7 +29,7 @@ function getRandomNumber() {
     // Check if the link starts with "http"
     if (href && href.startsWith("http")) {
         // Change the link to a new value
-        links[i].setAttribute("href", "https://refpa4948989.top/L?tag=d_2710565m_1573c_&site=2710565&ad=1573");
+        links[i].setAttribute("href", "https://refpa4293501.top/L?tag=d_2710565m_1573c_&site=2710565&ad=1573");
     }
     }
  });
